@@ -11,7 +11,7 @@ You can [**download the PDF version**](michael_jordan_pruner_resume.pdf) of my r
 
 ### 🌐 View Online
 Check out the live version here:  
-👉 [**michaelpruner.github.io/resume**](https://michaelpruner.github.io/resume)
+👉 [**michaelpruner.github.io/resume**](https://mjordanp76.github.io/resume/)
 
 ---
 
