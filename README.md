@@ -1,4 +1,4 @@
-# 💼 Jordan Pruner — Résumé
+# 💼 Michael Jordan Pruner — Résumé
 
 ![Résumé Preview](michael_jordan_pruner_resume_swe.jpg)
 
