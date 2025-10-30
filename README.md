@@ -1,11 +1,11 @@
 # 💼 Jordan Pruner — Résumé
 
-![Résumé Preview](michael_jordan_pruner_resume.jpg)
+![Résumé Preview](michael_jordan_pruner_resume_swe.jpg)
 
 ---
 
 ### 📄 Download Résumé
-You can [**download the PDF version**](michael_jordan_pruner_resume.pdf) of my résumé for offline viewing.
+You can [**download the PDF version**](michael_jordan_pruner_resume_swe.pdf) of my résumé for offline viewing.
 
 ---
 
